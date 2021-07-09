@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    margin: auto;
+}
+p{
+    font-size: 13px;
+}
+span {
+    color: red;
+}
+td {
+    margin: 100px;
+}
